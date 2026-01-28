@@ -1,3 +1,18 @@
 h1 {
-    color: orange;
+    color: blue;
+    font-size: 60px;
+    font-variant-position: super;
+}
+
+h2 {
+    color: darkorange;
+    font-size: 40px;
+}
+
+p {
+    color: black;
+    font-size: 30px;
+} 
+body {
+    background-color:  lightgray;
 }
